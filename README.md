@@ -23,7 +23,7 @@ This project was created to practice and improve my HTML and CSS skills by build
 
 You can access my Udemy Clone website by visiting:
 
-**[View Udemy Clone](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)**
+**[View Udemy Clone]( https://vishale2207-creator.github.io/Udemy/)**
 
 Feel free to explore the website and check out the project.
 
